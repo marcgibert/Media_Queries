@@ -1,0 +1,112 @@
+/*************************
+* Created by Marc Gibert *
+* Twitter: @hellomarc    *
+* Site: http://marc.cat  *
+*************************/
+
+/*	Forces backgrounds to span full width, even if there is horizontal scrolling. Increase this if your layout is wider.
+	Note: IE6 works fine without this fix.
+*/
+
+
+/* Modify according to starting screen resolution. */
+body {
+	min-width: 960px; 
+}
+
+/* 960 Container. Modify according to starting screen resolution. */
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px; /*  */
+}
+
+
+/* @media screen and (min-width: 2080px) */
+@media screen and (min-width: 130em) {
+
+}
+
+/* @media screen and (min-width: 2048px) - New iPad (iPad3) w Retina display **Horizontal** */
+@media screen and (min-width: 128em) {
+
+}
+
+/* @media screen and (min-width: 1872px) */
+@media screen and (min-width: 117em) {
+
+}
+
+/* @media screen and (min-width: 1680px) */
+@media screen and (min-width: 105em) {
+
+}
+
+/* @media screen and (min-width: 1536px) - New iPad (iPad3) w Retina display **Vertical** */
+@media screen and (min-width: 96em) {
+
+}
+
+/* @media screen and (min-width: 1024px) - iPad1/2 **Horizontal** */
+@media screen and (min-width: 64em) {
+
+}
+
+/* @media screen and (min-width: 960px) - iPhone4-4S/iPod touch w Retina display **Horizontal** // Tipical Android Screen Size XLarge **Horizontal** */
+@media screen and (min-width: 60em) {
+
+}
+
+/* @media screen and (min-width: 888px) */
+@media screen and (min-width: 55.5em) {
+
+}
+
+/* @media screen and (min-width: 854px) - Some Android devices **Horizontal** */
+@media screen and (min-width: 53em) {
+
+}
+
+/* @media screen and (min-width: 800px) - Some Android devices **Horizontal** */
+@media screen and (min-width: 50em) {
+
+}
+
+/* @media screen and (min-width: 768px) - iPad1/2 **Vertical** */
+@media screen and (min-width: 48em) {
+
+}
+/* @media screen and (min-width: 720px) - Tipical Android Screen Size XLarge **Vertical** */
+@media screen and (min-width: 45em) {
+
+}
+
+/* @media screen and (min-width: 640px) - iPhone4-4S/iPod touch w Retina display **Vertical** // Tipical Android Screen Size Large **Horizontal** */
+@media screen and (min-width: 40em) {
+
+}
+
+/* @media screen and (min-width: 480px) - iPhone/iPod touch **Horizontal** // Tipical Android Screen Size Large **Vertical** */
+@media screen and (min-width: 30em) {
+
+}
+
+/* @media screen and (min-width: 470px) - Tipical Android Screen Size Normal **Horizontal** */
+@media screen and (min-width: 29em) {
+
+}
+
+/* @media screen and (min-width: 426x) - Tipical Android Screen Size Small **Horizontal** */
+@media screen and (min-width: 26em) {
+
+}
+
+/* @media screen and (min-width: 360px) - Some Android devices **Vertical** */
+@media screen and (min-width: 22em) {
+
+}
+
+/* @media screen and (min-width: 320px) - iPhone/iPod touch **Vertical** // Tipical Android Screen Size Normal & Small **Vertical** */
+@media screen and (min-width: 20em) {
+
+}
